@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SIH2025/static/css/main.90bd2576.css",
+    "main.js": "/SIH2025/static/js/main.9038007c.js",
+    "static/js/453.ae8c66a7.chunk.js": "/SIH2025/static/js/453.ae8c66a7.chunk.js",
+    "index.html": "/SIH2025/index.html",
+    "main.90bd2576.css.map": "/SIH2025/static/css/main.90bd2576.css.map",
+    "main.9038007c.js.map": "/SIH2025/static/js/main.9038007c.js.map",
+    "453.ae8c66a7.chunk.js.map": "/SIH2025/static/js/453.ae8c66a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90bd2576.css",
+    "static/js/main.9038007c.js"
+  ]
+}
